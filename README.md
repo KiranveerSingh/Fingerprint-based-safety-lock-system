@@ -43,13 +43,14 @@ This project is a **biometric door lock system** using an **R307 fingerprint sen
 
 ## 📁 File Structure
 Fingerprint-Door-Lock-System/
-│
-├── Arduino_Code.ino        # Arduino code (enrollment + verification)
-├── README.md               # Project documentation (intro, features, etc.)
-├── images/                 # Store circuit diagrams or project photos
-│   ├── circuit.png
-│   └── working.jpg
-└── Components_Table.docx   # (Optional, if you want a Word table)
+│── ArduinoIDE-Code/
+│   ├── enrollment.ino
+│   ├── detection.ino
+│── Images/
+│   ├── circuit_diagram.png
+│   └── prototype.jpg
+│── LICENSE
+│── README.md
 
 
 
