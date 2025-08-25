@@ -59,8 +59,6 @@ Fingerprint-Door-Lock-System/
 3. Enroll fingerprints via the serial monitor.
 4. Try unlocking with the enrolled fingerprint.
 
-## 📷 Optional
-Include wiring diagrams or circuit images in the `/images` folder and link them in the README.
 
 ## 📄 License
 This project is open-source under the [MIT License](LICENSE).
