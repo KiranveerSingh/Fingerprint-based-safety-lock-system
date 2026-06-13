@@ -1,4 +1,4 @@
-
+#include <SoftwareSerial.h>
 #include <Adafruit_Fingerprint.h>
 
 // On Leonardo/Micro or others with hardware serial, use those! #0 is green wire, #1 is white

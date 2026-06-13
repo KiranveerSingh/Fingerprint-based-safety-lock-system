@@ -1,4 +1,4 @@
-# 🔧 How I Made the Fingerprint-Based Door Lock System
+#  How I Made the Fingerprint-Based Door Lock System
 
 ---
 
