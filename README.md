@@ -61,6 +61,10 @@ Fingerprint-Door-Lock-System/
 3. Enroll fingerprints via the serial monitor.
 4. Try unlocking with the enrolled fingerprint.
 
+## Contributors 
+Kiranveer Singh, B.Tech Elecronics and Communication Engineering 
+Gurleen Kaur, B.Tech Electronics and Computer Engineering
+
 
 ## License
 This project is open-source under the [MIT License](LICENSE).
